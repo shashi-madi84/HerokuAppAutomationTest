@@ -42,6 +42,13 @@ This project makes it easy to:
 * Installs all the related dependencies using maven
 * Provides simple instructions
 
+## Improvements
+
+There could be many improvements that can be made:
+* Create Background step for performing common steps at the start
+* Update the code to use Page Object Model (POM)
+* Update code to provide cover scenarios
+
 ## Contributing
 
 As this is a project developed for interview, I know this might not be the perfect approach
