@@ -47,7 +47,7 @@ This project makes it easy to:
 There could be many improvements that can be made:
 * Create Background step for performing common steps at the start
 * Update the code to use Page Object Model (POM)
-* Update code to provide cover scenarios
+* Update code to cover more scenarios
 
 ## Contributing
 
